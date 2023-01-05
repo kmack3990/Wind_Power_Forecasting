@@ -30,7 +30,8 @@ Data
       - wind-farm-1-metmast-2016.csv (Wind Farm 1 Meterological Data for 2016)
       - wind-farm-1-metmast-2017.csv (Wind Farm 1 Meterological Data for 2017)
   - Power and Meterological Data
-      - Data files too large to upload even when compressed.  Found here --> https://opendata.edp.com/pages/challenges/
+      - Data files too large to upload even when compressed.  Found here --> 
+              https://opendata.edp.com/pages/challenges/
       - wind-farm-1-signals-2016.csv (Wind Farm 1 Power Data for 2016)
       - wind-farm-1-signals-2017.csv (Wind Farm 1 Power Data for 2017)
 - Processed Data
