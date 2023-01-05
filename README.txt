@@ -1,7 +1,7 @@
 ﻿Submission Structure and Outline of Folder - Filename: Kiley_Mack_Final_Capston_Submission_Folder
 
 
-Notebook 1 - filename:  capstone_notebook1.ipynb
+Notebook 1 - filename:  capstone_notebook1.ipynb - Large file size due to ploty visualizations. Needed be compressed to upload.  Apologize. 
 - Environment - “timeseries” Conda Environment - contains - Python = 3.8, numpy, pandas, matplotlib, seaborn, statsmodels, scikit-learn = 0.24.1, jupyter, jupyter lab, plotly - 4.14.3, fbprophet = 0.7.1
 - Workflow - Initial EDA --> Data Cleaning and Processing --> More EDA --> SARIMAX Model --> VAR Model
 
